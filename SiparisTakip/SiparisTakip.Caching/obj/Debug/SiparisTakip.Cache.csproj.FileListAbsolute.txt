@@ -1,0 +1,5 @@
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Caching\bin\Debug\SiparisTakip.Caching.dll
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Caching\bin\Debug\SiparisTakip.Caching.pdb
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Caching\obj\Debug\SiparisTakip.Cache.csproj.CoreCompileInputs.cache
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Caching\obj\Debug\SiparisTakip.Caching.dll
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Caching\obj\Debug\SiparisTakip.Caching.pdb

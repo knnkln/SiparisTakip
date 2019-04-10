@@ -1,0 +1,6 @@
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Dal\bin\Debug\SiparisTakip.Dal.dll
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Dal\bin\Debug\SiparisTakip.Dal.pdb
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Dal\obj\Debug\SiparisTakip.Dal.csprojAssemblyReference.cache
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Dal\obj\Debug\SiparisTakip.Dal.csproj.CoreCompileInputs.cache
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Dal\obj\Debug\SiparisTakip.Dal.dll
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Dal\obj\Debug\SiparisTakip.Dal.pdb

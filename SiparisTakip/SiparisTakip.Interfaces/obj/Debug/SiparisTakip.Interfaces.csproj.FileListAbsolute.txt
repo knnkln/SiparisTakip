@@ -1,0 +1,5 @@
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Interfaces\bin\Debug\SiparisTakip.Interfaces.dll
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Interfaces\bin\Debug\SiparisTakip.Interfaces.pdb
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Interfaces\obj\Debug\SiparisTakip.Interfaces.csproj.CoreCompileInputs.cache
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Interfaces\obj\Debug\SiparisTakip.Interfaces.dll
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Interfaces\obj\Debug\SiparisTakip.Interfaces.pdb

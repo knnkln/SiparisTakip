@@ -1,0 +1,7 @@
+D:\SiparisTakip\SiparisTakip\SiparisTakip.WcfServiceLibrary\bin\Debug\SiparisTakip.WcfServiceLibrary.dll.config
+D:\SiparisTakip\SiparisTakip\SiparisTakip.WcfServiceLibrary\bin\Debug\SiparisTakip.WcfServiceLibrary.dll
+D:\SiparisTakip\SiparisTakip\SiparisTakip.WcfServiceLibrary\bin\Debug\SiparisTakip.WcfServiceLibrary.pdb
+D:\SiparisTakip\SiparisTakip\SiparisTakip.WcfServiceLibrary\obj\Debug\SiparisTakip.WcfServiceLibrary.csprojAssemblyReference.cache
+D:\SiparisTakip\SiparisTakip\SiparisTakip.WcfServiceLibrary\obj\Debug\SiparisTakip.WcfServiceLibrary.csproj.CoreCompileInputs.cache
+D:\SiparisTakip\SiparisTakip\SiparisTakip.WcfServiceLibrary\obj\Debug\SiparisTakip.WcfServiceLibrary.dll
+D:\SiparisTakip\SiparisTakip\SiparisTakip.WcfServiceLibrary\obj\Debug\SiparisTakip.WcfServiceLibrary.pdb

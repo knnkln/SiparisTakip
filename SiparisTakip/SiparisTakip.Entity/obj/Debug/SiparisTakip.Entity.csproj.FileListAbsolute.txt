@@ -1,0 +1,6 @@
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Entity\bin\Debug\SiparisTakip.Entity.dll
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Entity\bin\Debug\SiparisTakip.Entity.pdb
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Entity\obj\Debug\SiparisTakip.Entity.csprojAssemblyReference.cache
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Entity\obj\Debug\SiparisTakip.Entity.csproj.CoreCompileInputs.cache
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Entity\obj\Debug\SiparisTakip.Entity.dll
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Entity\obj\Debug\SiparisTakip.Entity.pdb
