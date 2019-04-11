@@ -4,3 +4,9 @@ D:\SiparisTakip\SiparisTakip\SiparisTakip.Entity\obj\Debug\SiparisTakip.Entity.c
 D:\SiparisTakip\SiparisTakip\SiparisTakip.Entity\obj\Debug\SiparisTakip.Entity.csproj.CoreCompileInputs.cache
 D:\SiparisTakip\SiparisTakip\SiparisTakip.Entity\obj\Debug\SiparisTakip.Entity.dll
 D:\SiparisTakip\SiparisTakip\SiparisTakip.Entity\obj\Debug\SiparisTakip.Entity.pdb
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Entity\bin\Debug\SiparisTakip.Entity.dll.config
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Entity\bin\Debug\EntityFramework.dll
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Entity\bin\Debug\EntityFramework.SqlServer.dll
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Entity\bin\Debug\EntityFramework.xml
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Entity\bin\Debug\EntityFramework.SqlServer.xml
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Entity\obj\Debug\SiparisTakip.Entity.csproj.CopyComplete
