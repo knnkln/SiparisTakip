@@ -3,3 +3,8 @@ D:\SiparisTakip\SiparisTakip\SiparisTakip.Interfaces\bin\Debug\SiparisTakip.Inte
 D:\SiparisTakip\SiparisTakip\SiparisTakip.Interfaces\obj\Debug\SiparisTakip.Interfaces.csproj.CoreCompileInputs.cache
 D:\SiparisTakip\SiparisTakip\SiparisTakip.Interfaces\obj\Debug\SiparisTakip.Interfaces.dll
 D:\SiparisTakip\SiparisTakip\SiparisTakip.Interfaces\obj\Debug\SiparisTakip.Interfaces.pdb
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Interfaces\bin\Debug\SiparisTakip.Entity.dll
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Interfaces\bin\Debug\SiparisTakip.Entity.pdb
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Interfaces\bin\Debug\SiparisTakip.Entity.dll.config
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Interfaces\obj\Debug\SiparisTakip.Interfaces.csprojAssemblyReference.cache
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Interfaces\obj\Debug\SiparisTakip.Interfaces.csproj.CopyComplete

@@ -13,12 +13,8 @@ using SiparisTakip.Entity.Models;
 
 namespace SiparisTakip.Dal.Concrete.EntityFramework.Repository
 {
-    class EFStokRepository : IStokDal
+    public class EFStokRepository : IStokDal
     {
-
-
-
-
         public Stok Kaydet(Stok entity)
         {
             using (SiparisTakipContext context = new SiparisTakipContext())

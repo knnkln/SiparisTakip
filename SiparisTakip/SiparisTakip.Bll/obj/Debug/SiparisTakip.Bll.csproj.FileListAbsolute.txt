@@ -4,3 +4,14 @@ D:\SiparisTakip\SiparisTakip\SiparisTakip.Bll\obj\Debug\SiparisTakip.Bll.csprojA
 D:\SiparisTakip\SiparisTakip\SiparisTakip.Bll\obj\Debug\SiparisTakip.Bll.csproj.CoreCompileInputs.cache
 D:\SiparisTakip\SiparisTakip\SiparisTakip.Bll\obj\Debug\SiparisTakip.Bll.dll
 D:\SiparisTakip\SiparisTakip\SiparisTakip.Bll\obj\Debug\SiparisTakip.Bll.pdb
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Dal.dll
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Entity.dll
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Interfaces.dll
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Bll\bin\Debug\EntityFramework.dll
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Dal.pdb
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Dal.dll.config
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Entity.pdb
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Entity.dll.config
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Interfaces.pdb
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Bll\bin\Debug\EntityFramework.xml
+D:\SiparisTakip\SiparisTakip\SiparisTakip.Bll\obj\Debug\SiparisTakip.Bll.csproj.CopyComplete
