@@ -67,3 +67,15 @@ D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI\obj\Debug\SiparisTakip.Asp
 D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI\obj\Debug\SiparisTakip.AspNetMvcUI.csproj.CopyComplete
 D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI\obj\Debug\SiparisTakip.AspNetMvcUI.dll
 D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI\obj\Debug\SiparisTakip.AspNetMvcUI.pdb
+D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI\bin\SiparisTakip.Bll.dll
+D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI\bin\SiparisTakip.Dal.dll
+D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI\bin\SiparisTakip.Entity.dll
+D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI\bin\SiparisTakip.Interfaces.dll
+D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI\bin\EntityFramework.dll
+D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI\bin\SiparisTakip.Bll.pdb
+D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI\bin\SiparisTakip.Dal.pdb
+D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI\bin\SiparisTakip.Dal.dll.config
+D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI\bin\SiparisTakip.Entity.pdb
+D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI\bin\SiparisTakip.Entity.dll.config
+D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI\bin\SiparisTakip.Interfaces.pdb
+D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI\bin\EntityFramework.xml

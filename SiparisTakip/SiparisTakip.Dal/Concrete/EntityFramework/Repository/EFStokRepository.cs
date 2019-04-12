@@ -1,15 +1,11 @@
-﻿using System;
+﻿using SiparisTakip.Dal.Abstract.StokDal;
+using SiparisTakip.Dal.Concrete.EntityFramework.Context;
+using SiparisTakip.Entity.Models;
+using System;
 using System.Collections.Generic;
-using System.Data.Entity.Infrastructure;
 using System.Data.Entity.Migrations;
 using System.Linq;
 using System.Linq.Expressions;
-using System.Security.Cryptography.X509Certificates;
-using System.Text;
-using System.Threading.Tasks;
-using SiparisTakip.Dal.Abstract.StokDal;
-using SiparisTakip.Dal.Concrete.EntityFramework.Context;
-using SiparisTakip.Entity.Models;
 
 namespace SiparisTakip.Dal.Concrete.EntityFramework.Repository
 {

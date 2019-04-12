@@ -26,3 +26,15 @@ D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI.Tests\obj\Debug\SiparisTak
 D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI.Tests\obj\Debug\SiparisTakip.AspNetMvcUI.Tests.csproj.CopyComplete
 D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI.Tests\obj\Debug\SiparisTakip.AspNetMvcUI.Tests.dll
 D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI.Tests\obj\Debug\SiparisTakip.AspNetMvcUI.Tests.pdb
+D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI.Tests\bin\Debug\SiparisTakip.Interfaces.dll
+D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI.Tests\bin\Debug\SiparisTakip.Entity.dll
+D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI.Tests\bin\Debug\SiparisTakip.Dal.dll
+D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI.Tests\bin\Debug\SiparisTakip.Bll.dll
+D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI.Tests\bin\Debug\EntityFramework.dll
+D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI.Tests\bin\Debug\SiparisTakip.Interfaces.pdb
+D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI.Tests\bin\Debug\SiparisTakip.Entity.pdb
+D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI.Tests\bin\Debug\SiparisTakip.Entity.dll.config
+D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI.Tests\bin\Debug\SiparisTakip.Dal.pdb
+D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI.Tests\bin\Debug\SiparisTakip.Dal.dll.config
+D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI.Tests\bin\Debug\SiparisTakip.Bll.pdb
+D:\SiparisTakip\SiparisTakip\SiparisTakip.AspNetMvcUI.Tests\bin\Debug\EntityFramework.xml
